@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Normalizex
 - 💬 I’m interested in blockchain and web devepment.
 
-<p align="center">
+<div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=normalizex&theme=monokai">
+</div>
+<div>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=normalizex&theme=tokyonight' />
+</div>
 
 ### Things I code with
 - Programing Languages:
